@@ -11,20 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/paulhobbel/commando-provider-mongo.git"
   },
-  "keywords": [
-    "discord.js",
-    "commando",
-    "discord.js-commando",
-    "provider",
-    "mongodb",
-    "settings"
-  ],
   "author": "Paul Hobbel <paulhobbel@hotmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/paulhobbel/commando-provider-mongo/issues"
-  },
-  "homepage": "https://github.com/paulhobbel/commando-provider-mongo#readme",
   "devDependencies": {
     "@types/mongodb": "^3.6.3",
     "discord.js": "^12.5.1",
