@@ -2,7 +2,7 @@
   "name": "commando-provider-mongo",
   "version": "2.1.0",
   "description": "A MongoDB provider for Commando",
-  "main": "dist/index.js",
+  "main": "index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
